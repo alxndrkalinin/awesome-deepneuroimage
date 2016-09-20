@@ -38,6 +38,8 @@ A curated list of awesome deep learning applications in the field of neurologica
 
 - **2015-03** | Deep convolutional neural networks for multi-modality isointense infant brain image segmentation | *Zhang, Wenlu, Rongjian Li, Houtao Deng, Li Wang, Weili Lin, Shuiwang Ji, and Dinggang Shen* | [NeuroImage](http://dx.doi.org/10.1016/j.neuroimage.2014.12.061)
 
+- **2015-06** | Deep neural networks for anatomical brain segmentation | *de Brebisson, Alexander, and Giovanni Montana* | [Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops](http://dx.doi.org/10.1109/CVPRW.2015.7301312)
+
 - **2015-09** | Deep independence network analysis of structural brain imaging: A simulation study | *Castro, Eduardo, Devon Hjelm, Sergey Plis, Laurent Dinh, Jessica Turner, and Vince Calhoun* | [2015 IEEE 25th International Workshop on Machine Learning for Signal Processing (MLSP)](http://dx.doi.org/10.1109/MLSP.2015.7324318)
 
 - **2015-10** | Multi-Scale 3D Convolutional Neural Networks for Lesion Segmentation in Brain MRI | *Kamnitsas, Konstantinos, Liang Chen, Christian Ledig, Daniel Rueckert, and Ben Glocker* | [2015 Ischemic Stroke Lesion Segmentation Challenge (ISLES)](http://www.isles-challenge.org/ISLES2015/pdf/20150930_ISLES2015_Proceedings.pdf#page=21)
