@@ -30,6 +30,8 @@ A curated list of awesome deep learning applications in the field of neurologica
 
 - **2014-12** | Learning Deep Temporal Representations for Brain Decoding | *Firat, Orhan, Emre Aksan, Ilke Oztekin, and Fatos T. Yarman Vural* | [arXiv](http://arxiv.org/abs/1412.7522)
 
+- **2015-01** | Deep learning of fMRI big data: a novel approach to subject-transfer decoding | *Koyamada, Sotetsu, Yumi Shikauchi, Ken Nakae, Masanori Koyama, and Shin Ishii* | [arXiv](https://arxiv.org/abs/1502.00093)
+
 - **2015-02** | Multi-Phase Feature Representation Learning for Neurodegenerative Disease Diagnosis | *Liu, Siqi, Sidong Liu, Weidong Cai, Sonia Pujol, Ron Kikinis, and David Dagan Feng* | [2015 Australasian Conference on Artificial Life and Computational Intelligence](http://dx.doi.org/10.1007/978-3-319-14803-8_27)
 
 - **2015-03** | Latent feature representation with stacked auto-encoder for AD/MCI diagnosis | *Suk, Heung-Il, Seong-Whan Lee, Dinggang Shen, and Alzheimer’s Disease Neuroimaging Initiative* | [Brain Structure and Function](http://dx.doi.org/10.1007/s00429-013-0687-3)
@@ -42,7 +44,11 @@ A curated list of awesome deep learning applications in the field of neurologica
 
 - **2015-11** | Deep Convolutional Encoder Networks for Multiple Sclerosis Lesion Segmentation | *Brosch, Tom, Youngjin Yoo, Lisa YW Tang, David KB Li, Anthony Traboulsee, and Roger Tam* | [2015 International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)](http://dx.doi.org/10.1007/978-3-319-24574-4_1)
 
+- **2016-01** | Deep neural network with weight sparsity control and pre-training extracts hierarchical features and enhances classification performance: Evidence from whole-brain resting-state functional connectivity patterns of schizophrenia | *Kim, Junghoe, Vince D. Calhoun, Eunsoo Shim, and Jong-Hwan Lee* | [NeuroImage](http://dx.doi.org/10.1016/j.neuroimage.2015.05.018)
+
 - **2016-04** | Multimodal fusion of brain structural and functional imaging with a deep neural machine translation approach | *Amin, Md Faijul, Sergey M. Plis, Eswar Damaraju, Devon Hjelm, KyungHyun Cho, and Vince D. Calhoun* | [2016 IEEE Southwest Symposium on Image Analysis and Interpretation (SSIAI)](http://dx.doi.org/10.1109/SSIAI.2016.7459160)
+
+- **2016-04** | Task-specific feature extraction and classification of fMRI volumes using a deep neural network initialized with a deep belief network: Evaluation using sensorimotor tasks | *Jang, Hojin, Sergey M. Plis, Vince D. Calhoun, and Jong-Hwan Lee* | [NeuroImage](http://dx.doi.org/10.1016/j.neuroimage.2016.04.003)
 
 - **2016-05** | Deep 3D Convolutional Encoder Networks With Shortcuts for Multiscale Feature Integration Applied to Multiple Sclerosis Lesion Segmentation | *Brosch, Tom, Lisa YW Tang, Youngjin Yoo, David KB Li, Anthony Traboulsee, and Roger Tam* | [IEEE transactions on medical imaging](http://dx.doi.org/http://dx.doi.org/10.1109/TMI.2016.2528821)
 
