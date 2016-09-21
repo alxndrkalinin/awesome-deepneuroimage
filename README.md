@@ -44,17 +44,25 @@ A curated list of awesome deep learning applications in the field of neurologica
 
 - **2015-10** | Multi-Scale 3D Convolutional Neural Networks for Lesion Segmentation in Brain MRI | *Kamnitsas, Konstantinos, Liang Chen, Christian Ledig, Daniel Rueckert, and Ben Glocker* | [2015 Ischemic Stroke Lesion Segmentation Challenge (ISLES)](http://www.isles-challenge.org/ISLES2015/pdf/20150930_ISLES2015_Proceedings.pdf#page=21)
 
+- **2015-10** | Marginal Space Deep Learning: Efficient Architecture for Volumetric Image Parsing | *Ghesu, Florin C., Bogdan Georgescu, Yefeng Zheng, Joachim Hornegger, and Dorin Comaniciu* | [2015 International Conference on Medical Image Computing and Computer-Assisted Intervention](http://dx.doi.org/10.1007/978-3-319-24553-9_87)
+
 - **2015-11** | Deep Convolutional Encoder Networks for Multiple Sclerosis Lesion Segmentation | *Brosch, Tom, Youngjin Yoo, Lisa YW Tang, David KB Li, Anthony Traboulsee, and Roger Tam* | [2015 International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)](http://dx.doi.org/10.1007/978-3-319-24574-4_1)
 
 - **2016-01** | Deep neural network with weight sparsity control and pre-training extracts hierarchical features and enhances classification performance: Evidence from whole-brain resting-state functional connectivity patterns of schizophrenia | *Kim, Junghoe, Vince D. Calhoun, Eunsoo Shim, and Jong-Hwan Lee* | [NeuroImage](http://dx.doi.org/10.1016/j.neuroimage.2015.05.018)
+
+- **2016-04** | Efficient Multi-Scale 3D CNN with Fully Connected CRF for Accurate Brain Lesion Segmentation | *Kamnitsas, Konstantinos, Christian Ledig, Virginia FJ Newcombe, Joanna P. Simpson, Andrew D. Kane, David K. Menon, Daniel Rueckert, and Ben Glocker* | [arXiv](https://arxiv.org/abs/1603.05959)
 
 - **2016-04** | Multimodal fusion of brain structural and functional imaging with a deep neural machine translation approach | *Amin, Md Faijul, Sergey M. Plis, Eswar Damaraju, Devon Hjelm, KyungHyun Cho, and Vince D. Calhoun* | [2016 IEEE Southwest Symposium on Image Analysis and Interpretation (SSIAI)](http://dx.doi.org/10.1109/SSIAI.2016.7459160)
 
 - **2016-04** | Task-specific feature extraction and classification of fMRI volumes using a deep neural network initialized with a deep belief network: Evaluation using sensorimotor tasks | *Jang, Hojin, Sergey M. Plis, Vince D. Calhoun, and Jong-Hwan Lee* | [NeuroImage](http://dx.doi.org/10.1016/j.neuroimage.2016.04.003)
 
-- **2016-05** | Deep 3D Convolutional Encoder Networks With Shortcuts for Multiscale Feature Integration Applied to Multiple Sclerosis Lesion Segmentation | *Brosch, Tom, Lisa YW Tang, Youngjin Yoo, David KB Li, Anthony Traboulsee, and Roger Tam* | [IEEE transactions on medical imaging](http://dx.doi.org/http://dx.doi.org/10.1109/TMI.2016.2528821)
+- **2016-05** | Deep 3D Convolutional Encoder Networks With Shortcuts for Multiscale Feature Integration Applied to Multiple Sclerosis Lesion Segmentation | *Brosch, Tom, Lisa YW Tang, Youngjin Yoo, David KB Li, Anthony Traboulsee, and Roger Tam* | [IEEE transactions on medical imaging](http://dx.doi.org/10.1109/TMI.2016.2528821)
+
+- **2016-05** | Marginal Space Deep Learning: Efficient Architecture for Volumetric Image Parsing | *Ghesu, Florin C., Edward Krubasik, Bogdan Georgescu, Vivek Singh, Yefeng Zheng, Joachim Hornegger, and Dorin Comaniciu* | [IEEE transactions on medical imaging](http://dx.doi.org/10.1109/TMI.2016.2538802)
 
 - **2016-07** | Deep Independence Network Analysis of Structural Brain Imaging: Application to Schizophrenia | *Castro, Eduardo, R. Devon Hjelm, Sergey Plis, Laurent Dihn, Jessica Turner, and Vince Calhoun* | [IEEE Transactions on Medical Imaging](http://dx.doi.org/10.1109/TMI.2016.2527717)
+
+- **2016-08** | VoxResNet: Deep Voxelwise Residual Networks for Volumetric Brain Segmentation | *Chen, Hao, Qi Dou, Lequan Yu, and Pheng-Ann Heng* | [arXiv ](https://arxiv.org/abs/1608.05895)
 
 - **2017-01** | Brain tumor segmentation with Deep Neural Networks | *Havaei, Mohammad, Axel Davy, David Warde-Farley, Antoine Biard, Aaron Courville, Yoshua Bengio, Chris Pal, Pierre-Marc Jodoin, and Hugo Larochelle* | [Medical Image Analysis](http://dx.doi.org/10.1016/j.media.2016.05.004)
 
