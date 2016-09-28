@@ -62,6 +62,12 @@ A curated list of awesome deep learning applications in the field of neurologica
 
 - **2016-05** | q-Space Deep Learning: Twelve-Fold Shorter and Model-Free Diffusion MRI Scans | *Golkov, Vladimir, Alexey Dosovitskiy, Jonathan I. Sperl, Marion I. Menzel, Michael Czisch, Philipp Sämann, Thomas Brox, and Daniel Cremers* | [IEEE transactions on medical imaging](http://dx.doi.org/10.1109/TMI.2016.2551324)
 
+- **2016-05** | Automatic Detection of Cerebral Microbleeds From MR Images via 3D Convolutional Neural Networks | *Dou, Qi, Hao Chen, Lequan Yu, Lei Zhao, Jing Qin, Defeng Wang, Vincent CT Mok, Lin Shi, and Pheng-Ann Heng* | [IEEE transactions on medical imaging](http://dx.doi.org/10.1109/TMI.2016.2528129)
+
+- **2016-05** | Automatic Segmentation of MR Brain Images With a Convolutional Neural Network | *Moeskops, Pim, Max A. Viergever, Adriënne M. Mendrik, Linda S. de Vries, Manon JNL Benders, and Ivana Išgum* | [IEEE transactions on medical imaging](http://dx.doi.org/10.1109/TMI.2016.2548501)
+
+- **2016-05** | Brain Tumor Segmentation Using Convolutional Neural Networks in MRI Images | *Pereira, Sérgio, Adriano Pinto, Victor Alves, and Carlos A. Silva* | [IEEE transactions on medical imaging](http://dx.doi.org/10.1109/TMI.2016.2538465)
+
 - **2016-07** | Deep Independence Network Analysis of Structural Brain Imaging: Application to Schizophrenia | *Castro, Eduardo, R. Devon Hjelm, Sergey Plis, Laurent Dihn, Jessica Turner, and Vince Calhoun* | [IEEE Transactions on Medical Imaging](http://dx.doi.org/10.1109/TMI.2016.2527717)
 
 - **2016-08** | VoxResNet: Deep Voxelwise Residual Networks for Volumetric Brain Segmentation | *Chen, Hao, Qi Dou, Lequan Yu, and Pheng-Ann Heng* | [arXiv ](https://arxiv.org/abs/1608.05895)
