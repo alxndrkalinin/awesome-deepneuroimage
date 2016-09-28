@@ -60,6 +60,8 @@ A curated list of awesome deep learning applications in the field of neurologica
 
 - **2016-05** | Marginal Space Deep Learning: Efficient Architecture for Volumetric Image Parsing | *Ghesu, Florin C., Edward Krubasik, Bogdan Georgescu, Vivek Singh, Yefeng Zheng, Joachim Hornegger, and Dorin Comaniciu* | [IEEE transactions on medical imaging](http://dx.doi.org/10.1109/TMI.2016.2538802)
 
+- **2016-05** | q-Space Deep Learning: Twelve-Fold Shorter and Model-Free Diffusion MRI Scans | *Golkov, Vladimir, Alexey Dosovitskiy, Jonathan I. Sperl, Marion I. Menzel, Michael Czisch, Philipp Sämann, Thomas Brox, and Daniel Cremers* | [IEEE transactions on medical imaging](http://dx.doi.org/10.1109/TMI.2016.2551324)
+
 - **2016-07** | Deep Independence Network Analysis of Structural Brain Imaging: Application to Schizophrenia | *Castro, Eduardo, R. Devon Hjelm, Sergey Plis, Laurent Dihn, Jessica Turner, and Vince Calhoun* | [IEEE Transactions on Medical Imaging](http://dx.doi.org/10.1109/TMI.2016.2527717)
 
 - **2016-08** | VoxResNet: Deep Voxelwise Residual Networks for Volumetric Brain Segmentation | *Chen, Hao, Qi Dou, Lequan Yu, and Pheng-Ann Heng* | [arXiv ](https://arxiv.org/abs/1608.05895)
@@ -68,7 +70,7 @@ A curated list of awesome deep learning applications in the field of neurologica
 
 ### Contribution
 
-Feel free to send a pull request.
+Feel free to send a pull request. Use DOI links, when possible.
 
 ### License
 
