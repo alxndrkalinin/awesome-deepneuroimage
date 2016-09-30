@@ -70,6 +70,8 @@ A curated list of awesome deep learning applications in the field of neurologica
 
 - **2016-07** | Deep Independence Network Analysis of Structural Brain Imaging: Application to Schizophrenia | *Castro, Eduardo, R. Devon Hjelm, Sergey Plis, Laurent Dihn, Jessica Turner, and Vince Calhoun* | [IEEE Transactions on Medical Imaging](http://dx.doi.org/10.1109/TMI.2016.2527717)
 
+- **2016-07** | Alzheimer's Disease Diagnostics by Adaptation of 3D Convolutional Network | *Ehsan Hosseini-Asl, Robert Keynto, Ayman El-Baz* | [2016 IEEE International Conference on Image Processing](http://dx.doi.org/10.1109/icip.2016.7532332)
+
 - **2016-08** | VoxResNet: Deep Voxelwise Residual Networks for Volumetric Brain Segmentation | *Chen, Hao, Qi Dou, Lequan Yu, and Pheng-Ann Heng* | [arXiv ](https://arxiv.org/abs/1608.05895)
 
 - **2017-01** | Brain tumor segmentation with Deep Neural Networks | *Havaei, Mohammad, Axel Davy, David Warde-Farley, Antoine Biard, Aaron Courville, Yoshua Bengio, Chris Pal, Pierre-Marc Jodoin, and Hugo Larochelle* | [Medical Image Analysis](http://dx.doi.org/10.1016/j.media.2016.05.004)
