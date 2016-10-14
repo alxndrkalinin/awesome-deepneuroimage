@@ -72,7 +72,19 @@ A curated list of awesome deep learning applications in the field of neurologica
 
 - **2016-07** | Alzheimer's Disease Diagnostics by Adaptation of 3D Convolutional Network | *Ehsan Hosseini-Asl, Robert Keynto, Ayman El-Baz* | [2016 IEEE International Conference on Image Processing](http://dx.doi.org/10.1109/icip.2016.7532332)
 
-- **2016-08** | VoxResNet: Deep Voxelwise Residual Networks for Volumetric Brain Segmentation | *Chen, Hao, Qi Dou, Lequan Yu, and Pheng-Ann Heng* | [arXiv ](https://arxiv.org/abs/1608.05895)
+- **2016-08** | VoxResNet: Deep Voxelwise Residual Networks for Volumetric Brain Segmentation | *Chen, Hao, Qi Dou, Lequan Yu, and Pheng-Ann Heng* | [arXiv](https://arxiv.org/abs/1608.05895)
+
+- **2016-10** | Deep Learning of Brain Lesion Patterns for Predicting Future Disease Activity in Patients with Early Symptoms of Multiple Sclerosis. | *Yoo, Youngjin, Lisa W. Tang, Tom Brosch, David KB Li, Luanne Metz, Anthony Traboulsee, and Roger Tam* | [Deep Learning and Data Labeling for Medical Applications: First International Workshop, LABELS 2016, and Second International Workshop, DLMIA 2016, Held in Conjunction with MICCAI 2016, Athens, Greece, October 21, 2016, Proceedings](http://dx.doi.org/10.1007/978-3-319-46976-8_10)
+
+- **2016-10** | Convolutional Neural Network for Reconstruction of 7T-like Images from 3T MRI Using Appearance and Anatomical Features | *Bahrami, Khosro, Feng Shi, Islem Rekik, and Dinggang Shen* | [Deep Learning and Data Labeling for Medical Applications: First International Workshop, LABELS 2016, and Second International Workshop, DLMIA 2016, Held in Conjunction with MICCAI 2016, Athens, Greece, October 21, 2016, Proceedings](http://dx.doi.org/10.1007/978-3-319-46976-8_5)
+
+- **2016-10** | Longitudinal Multiple Sclerosis Lesion Segmentation Using Multi-view Convolutional Neural Networks | *Birenbaum, Ariel, and Hayit Greenspan* | [Deep Learning and Data Labeling for Medical Applications: First International Workshop, LABELS 2016, and Second International Workshop, DLMIA 2016, Held in Conjunction with MICCAI 2016, Athens, Greece, October 21, 2016, Proceedings](http://dx.doi.org/10.1007/978-3-319-46976-8_7)
+
+- **2016-10** | De-noising of Contrast-Enhanced MRI Sequences by an Ensemble of Expert Deep Neural Networks | *Benou, Ariel, Ronel Veksler, Alon Friedman, and Tammy Riklin Raviv* | [Deep Learning and Data Labeling for Medical Applications: First International Workshop, LABELS 2016, and Second International Workshop, DLMIA 2016, Held in Conjunction with MICCAI 2016, Athens, Greece, October 21, 2016, Proceedings](http://dx.doi.org/10.1007/978-3-319-46976-8_11)
+
+- **2016-10** | Multi-dimensional Gated Recurrent Units for the Segmentation of Biomedical 3D-Data | *Andermatt, Simon, Simon Pezold, and Philippe Cattin* | [Deep Learning and Data Labeling for Medical Applications: First International Workshop, LABELS 2016, and Second International Workshop, DLMIA 2016, Held in Conjunction with MICCAI 2016, Athens, Greece, October 21, 2016, Proceedings](http://dx.doi.org/10.1007/978-3-319-46976-8_15)
+
+- **2016-10** | Learning Thermal Process Representations for Intraoperative Analysis of Cortical Perfusion During Ischemic Strokes | *Hoffmann, Nico, Edmund Koch, Gerald Steiner, Uwe Petersohn, and Matthias Kirsch* | [Deep Learning and Data Labeling for Medical Applications: First International Workshop, LABELS 2016, and Second International Workshop, DLMIA 2016, Held in Conjunction with MICCAI 2016, Athens, Greece, October 21, 2016, Proceedings](http://dx.doi.org/10.1007/978-3-319-46976-8_16)
 
 - **2017-01** | Brain tumor segmentation with Deep Neural Networks | *Havaei, Mohammad, Axel Davy, David Warde-Farley, Antoine Biard, Aaron Courville, Yoshua Bengio, Chris Pal, Pierre-Marc Jodoin, and Hugo Larochelle* | [Medical Image Analysis](http://dx.doi.org/10.1016/j.media.2016.05.004)
 
