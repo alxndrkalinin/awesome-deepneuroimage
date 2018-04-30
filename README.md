@@ -106,6 +106,10 @@ A curated list of awesome deep learning applications in the field of neurologica
 
 - **2017-01** | Brain tumor segmentation with Deep Neural Networks | *Havaei, Mohammad, Axel Davy, David Warde-Farley, Antoine Biard, Aaron Courville, Yoshua Bengio, Chris Pal, Pierre-Marc Jodoin, and Hugo Larochelle* | [Medical Image Analysis](http://dx.doi.org/10.1016/j.media.2016.05.004)
 
+- **2017-01** | Residual and Plain Convolutional Neural Networks for 3D Brain MRI Classification | *S. Korolev., A. Safiulliny., M. Belyaev., and Y. Dodonova.* | [arXiv](https://arxiv.org/abs/1701.06643)
+
+- **2017-02** | BrainNetCNN: Convolutional neural networks for brain networks; towards predicting neurodevelopment | *J. Kawahara et al.* | [Neuroimage](https://doi.org/10.1016/j.neuroimage.2016.09.046)
+
 - **2017-02** | Generic decoding of seen and imagined objects using hierarchical visual features | *T Horikawa, Y Kamitani* | [Nat Commun](https://doi.org/10.1038/ncomms15037)
 
 - **2017-02** | DeepNAT: Deep convolutional neural network for segmenting neuroanatomy | *Christian Wachingera, Martin Reuterb, Tassilo Klein* | [NeuroImage](https://doi.org/10.1016/j.neuroimage.2017.02.035)
@@ -115,6 +119,34 @@ A curated list of awesome deep learning applications in the field of neurologica
 - **2017-03** | Using deep learning to investigate the neuroimaging correlates of psychiatric and neurological disorders: Methods and applications | *Sandra Vieira, Walter H.L. Pinaya, Andrea Mechelli* | [Neuroscience & Biobehavioral Reviews](https://doi.org/10.1016/j.neubiorev.2017.01.002)
 
 - **2017-04** | Deep ensemble learning of sparse regression models for brain disease diagnosis | *Heung-Il Suk, Seong-Whan Leea, Dinggang Shen* | [Medical Image Analysis](https://doi.org/10.1016/j.media.2017.01.008)
+
+- **2017-04** | VoxResNet: Deep voxelwise residual networks for brain segmentation from 3D MR images | *H. Chen, Q. Dou, L. Yu, J. Qin, and P. A. Heng* | [Neuroimage](https://doi.org/10.1016/j.neuroimage.2017.04.041)
+
+- **2017-04** | A novel ensemble approach on regionalized neural networks for brain disorder prediction | *L. Zheng, J. Zhang, B. Cao, P. S. Yu, and A. Ragin* | [Proceedings of the Symposium on Applied Computing](https://doi.org/10.1145/3019612.3019668)
+
+- **2017-06** | FuseMe: Classification of sMRI images by fusion of Deep CNNs on 2D+epsilon projections | *K. ADERGHAL., J. BENOIS-PINEAU., K. AFDEL., and C. GWENAËLLE* | [International Workshop on Content-based Multimedia Indexing](https://doi.org/10.1145/3095713.3095749)
+
+- **2017-07** | Predicting brain age with deep learning from raw imaging data results in a reliable and heritable biomarker | *J. H. Cole et al.* | [Neuroimage](https://doi.org/10.1016/j.neuroimage.2017.07.059)
+
+- **2017-10** | Neural Encoding and Decoding with Deep Learning for Dynamic Natural Vision | *H. Wen., J. Shi., Y. Zhang., K.-H. Lu., and Z. Liu.* | [Cerebral Cortex](https://doi.org/10.1093/cercor/bhx268)
+
+- **2017-10** | Detecting Anatomical Landmarks From Limited Medical Imaging Data Using Two-Stage Task-Oriented Deep Neural Networks | *J. Zhang, M. X. Liu, and D. G. Shen* | [IEEE TIP](https://doi.org/10.1109/TIP.2017.2721106)
+
+- **2017-12** | DeepRadiologyNet: Radiologist Level Pathology Detection in CT Head Images | *J. Merkowa., R. Lufkina., K. Nguyena., S. Soattob., Z. Tuc., and A. Vedaldi.* | [arXiv](https://arxiv.org/abs/1711.09313)
+
+- **2018-01** | 3D CNN-based classification using sMRI and MD-DTI images for Alzheimer disease studies | *Alexander Khvostikov, Karim Aderghal, Jenny Benois-Pineau, Andrey Krylov, Gwenaelle Catheline* | [arXiv](https://arxiv.org/abs/1801.05968)
+
+- **2018-02** | Deep Learning in Neuroradiology | *G. Zaharchuk, E. Gong, M. Wintermark, D. Rubin, and C. P. Langlotz* | [AJNR Am J Neuroradiol](https://doi.org/10.3174/ajnr.A5543)
+
+- **2018-02** | Deep learning enables reduced gadolinium dose for contrast-enhanced brain MRI | *E. Gong, J. M. Pauly, M. Wintermark, and G. Zaharchuk* | [J Magn Reson Imaging](https://doi.org/10.1002/jmri.25970)
+
+- **2018-03** | Medical Image Synthesis with Deep Convolutional Adversarial Networks | *D. Nie et al.* | [IEEE Transactions on Biomedical Engineering](https://doi.org/10.1109/TBME.2018.2814538)
+
+- **2018-03** | 3D conditional generative adversarial networks for high-quality PET image estimation at low dose | *Y. Wang et al.* | [Neuroimage](https://www.sciencedirect.com/science/article/pii/S1053811918302507)
+
+- **2018-04** | Alzheimer Classification with MR images: Exploration of CNN Performance Factors | *Viktor Wegmayr, Daniel Haziza* | [Conference on Medical Imaging with Deep Learning](https://openreview.net/forum?id=BkfSH6ojM)
+
+- **2018-05** | Multiscale Deep Neural Networks based analysis of FDG-PET images for the Early Diagnosis of Alzheimer’s Disease | *D. Lu, K. Popuri, G. W. Ding, R. Balachandar, and M. F. Beg* | [Medical Image Analysis](https://doi.org/10.1016/j.media.2018.02.002)
 
 ### Contribution
 
